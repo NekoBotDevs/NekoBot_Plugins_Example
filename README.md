@@ -35,12 +35,12 @@ pip install -r requirements.txt
 
 ### 插件开发
 
-[NekoBot插件开发文档](https://docs.nekobot.app/plugins/intro)
+[NekoBot插件开发文档](https://docs.nekolook.com/plugins/intro)
 
 ### 插件商店
 
-[NekoBot插件商店](https://store.nekobot.app)
+[NekoBot插件商店](https://store.nekolook.com)
 
 ### 插件提交
 
-[NekoBot插件提交](https://store.nekobot.app/plugins/publish)
+[NekoBot插件提交](https://store.nekolook.com/plugins/publish)
